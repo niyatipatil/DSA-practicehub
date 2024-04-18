@@ -3,7 +3,7 @@
 //Printing a block of stars by user input; time complexity = O(n^2)
 import java.util.Scanner;
 
-public class Demo1 {
+public class Square {
     public static void main(String[] args) {
         System.out.println("Enter the Square side value : ");
         Scanner sc = new Scanner(System.in);
